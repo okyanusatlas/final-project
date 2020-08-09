@@ -1,0 +1,28 @@
+.result {
+  height: 10%;
+  background-color: limegreen;
+  width: fit-content;
+  color:white;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+.mainClass {
+  height:1000px;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  color: whitesmoke;
+  background-color: gray;
+}
