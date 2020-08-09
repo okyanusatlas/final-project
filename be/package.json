@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "npm run test"
+    "test": "mocha --recursive"
   },
   "author": "Okyanus Atlas",
   "license": "MIT",
